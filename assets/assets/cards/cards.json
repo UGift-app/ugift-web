@@ -1,0 +1,238 @@
+{
+  "viewBox": "0 0 64 64",
+  "stroke": {
+    "width": 1.75,
+    "linecap": "round",
+    "linejoin": "round"
+  },
+  "colours": {
+    "cool": {
+      "hex": "#B8BEE3",
+      "tone": "dark",
+      "nameEn": "Lavender",
+      "nameAr": "لافندر"
+    },
+    "sand": {
+      "hex": "#E3C7B5",
+      "tone": "dark",
+      "nameEn": "Sand",
+      "nameAr": "رملي"
+    },
+    "peach": {
+      "hex": "#ECCFBC",
+      "tone": "dark",
+      "nameEn": "Peach",
+      "nameAr": "خوخي"
+    },
+    "surface": {
+      "hex": "#F7F6F3",
+      "tone": "dark",
+      "nameEn": "Cloud",
+      "nameAr": "سحابي"
+    },
+    "ground": {
+      "hex": "#ECEAE9",
+      "tone": "dark",
+      "nameEn": "Off-white",
+      "nameAr": "أبيض دافئ"
+    },
+    "mark": {
+      "hex": "#999FBD",
+      "tone": "dark",
+      "nameEn": "Periwinkle",
+      "nameAr": "بنفسجي فاتح"
+    },
+    "rose": {
+      "hex": "#D9AFA6",
+      "tone": "dark",
+      "nameEn": "Rose",
+      "nameAr": "وردي"
+    },
+    "action": {
+      "hex": "#5F6790",
+      "tone": "light",
+      "nameEn": "Periwinkle deep",
+      "nameAr": "بنفسجي غامق"
+    },
+    "charcoal": {
+      "hex": "#545554",
+      "tone": "light",
+      "nameEn": "Charcoal",
+      "nameAr": "فحمي"
+    },
+    "plum": {
+      "hex": "#5E4152",
+      "tone": "light",
+      "nameEn": "Plum",
+      "nameAr": "برقوقي"
+    },
+    "forest": {
+      "hex": "#3F5B4C",
+      "tone": "light",
+      "nameEn": "Forest",
+      "nameAr": "أخضر غامق"
+    },
+    "night": {
+      "hex": "#2F3550",
+      "tone": "light",
+      "nameEn": "Night",
+      "nameAr": "ليلي"
+    }
+  },
+  "motifs": {
+    "bow": {
+      "nameEn": "Bow",
+      "nameAr": "فيونكة",
+      "paths": [
+        "M32 30c-8-14-26-12-22-2 3 7 16 6 22 2z",
+        "M32 30c8-14 26-12 22-2-3 7-16 6-22 2z",
+        "M32 30c-4 8-8 12-14 20",
+        "M32 30c4 8 8 12 14 20",
+        "M29 30a3 3 0 1 0 6 0a3 3 0 1 0-6 0"
+      ]
+    },
+    "ribbon": {
+      "nameEn": "Ribbon",
+      "nameAr": "شريط",
+      "paths": [
+        "M6 40c10-14 20-14 30 0s20 14 22-2",
+        "M8 24c12 10 24 2 30-6",
+        "M44 50l10-8-2 10"
+      ]
+    },
+    "sparkle": {
+      "nameEn": "Sparkle",
+      "nameAr": "بريق",
+      "paths": [
+        "M32 10v44",
+        "M10 32h44",
+        "M18 18l28 28",
+        "M46 18L18 46",
+        "M32 22c2 6 4 8 10 10-6 2-8 4-10 10-2-6-4-8-10-10 6-2 8-4 10-10z"
+      ]
+    },
+    "lantern": {
+      "nameEn": "Lantern",
+      "nameAr": "فانوس",
+      "paths": [
+        "M32 6v6",
+        "M24 12h16",
+        "M22 18h20l3 8-4 22H25l-4-22z",
+        "M32 18v30",
+        "M22 26h20",
+        "M26 48h12v6H26z"
+      ]
+    },
+    "crescent": {
+      "nameEn": "Crescent and star",
+      "nameAr": "هلال ونجمة",
+      "paths": [
+        "M38 8a22 22 0 1 0 18 34 18 18 0 0 1-18-34z",
+        "M48 14l2 4 4 1-3 3 1 4-4-2-4 2 1-4-3-3 4-1z"
+      ]
+    },
+    "balloons": {
+      "nameEn": "Balloons",
+      "nameAr": "بالونات",
+      "paths": [
+        "M22 8a10 13 0 1 0 0 26a10 13 0 1 0 0-26z",
+        "M22 34v22",
+        "M20 36l2 3 2-3",
+        "M44 14a9 12 0 1 0 0 24a9 12 0 1 0 0-24z",
+        "M44 38v18",
+        "M42 40l2 3 2-3"
+      ]
+    },
+    "rings": {
+      "nameEn": "Rings",
+      "nameAr": "خاتمان",
+      "paths": [
+        "M24 36a13 13 0 1 0 0 1z",
+        "M40 36a13 13 0 1 0 0 1z",
+        "M24 22l-3-5 3-3 3 3z"
+      ]
+    },
+    "heart": {
+      "nameEn": "Heart",
+      "nameAr": "قلب",
+      "paths": [
+        "M32 54S8 40 8 24a12 12 0 0 1 24-4 12 12 0 0 1 24 4c0 16-24 30-24 30z"
+      ]
+    },
+    "cap": {
+      "nameEn": "Graduation",
+      "nameAr": "تخرّج",
+      "paths": [
+        "M6 26l26-10 26 10-26 10z",
+        "M16 30v12c0 4 8 8 16 8s16-4 16-8V30",
+        "M58 26v14",
+        "M58 40l2 6h-4z"
+      ]
+    },
+    "gift": {
+      "nameEn": "Gift box",
+      "nameAr": "هدية",
+      "paths": [
+        "M10 26h44v10H10z",
+        "M14 36v20h36V36",
+        "M32 26v30",
+        "M32 26c-6 0-14-2-14-8s8-4 14 8",
+        "M32 26c6 0 14-2 14-8s-8-4-14 8"
+      ]
+    },
+    "flower": {
+      "nameEn": "Flower",
+      "nameAr": "زهرة",
+      "paths": [
+        "M32 30a5 5 0 1 0 0 1z",
+        "M32 24c-3-8 3-14 6-10s0 8-6 10z",
+        "M38 28c8-3 14 3 10 6s-8 0-10-6z",
+        "M36 34c7 5 4 13-1 11s-4-8 1-11z",
+        "M28 34c-7 5-4 13 1 11s4-8-1-11z",
+        "M26 28c-8-3-14 3-10 6s8 0 10-6z",
+        "M32 36v20",
+        "M32 48c-4-2-6-6-10-6 2 5 6 6 10 6z"
+      ]
+    },
+    "confetti": {
+      "nameEn": "Confetti",
+      "nameAr": "قصاصات",
+      "paths": [
+        "M12 14l4 6",
+        "M26 8l-2 7",
+        "M44 10l6 2",
+        "M54 24l-5 4",
+        "M18 34l6-2",
+        "M38 30l3 6",
+        "M10 48l7 1",
+        "M30 46l-3 6",
+        "M50 44l5 5",
+        "M42 56l6-1"
+      ]
+    },
+    "none": {
+      "nameEn": "None",
+      "nameAr": "بدون",
+      "paths": []
+    }
+  },
+  "backgrounds": [
+    "colour",
+    "wash",
+    "image"
+  ],
+  "placements": [
+    "corner",
+    "edge",
+    "scatter"
+  ],
+  "sizes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tones": [
+    "dark",
+    "light"
+  ]
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>U GIFT</title>
+</head>
+<body style="margin:0;background:#F7F6F3;">
+  <script>
+    // The payment gateway sends the customer here when the payment is over,
+    // inside the app's payment frame (web build only). Pass the outcome
+    // (?status=...) up to the app, which closes the payment page.
+    if (window.parent !== window) {
+      window.parent.postMessage('ugift-payment:' + location.search, location.origin);
+    }
+  </script>
+</body>
+</html>
