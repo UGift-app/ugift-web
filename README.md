@@ -4,5 +4,5 @@ The U GIFT app built for the web, for testing on staging. **Compiled output only
 
 - Live at https://ugift-app.github.io/ugift-web/
 - Talks to the staging API (`api-staging.ugift.app`). Payments are the mock gateway; no money moves.
-- Built from `ugift-application` `242e1bd` with:
+- Built from `ugift-application` `ff4e576` with:
   `flutter build web --release --dart-define=API_BASE_URL=https://api-staging.ugift.app/v1 --base-href /ugift-web/`
